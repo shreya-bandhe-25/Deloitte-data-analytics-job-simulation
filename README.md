@@ -1,6 +1,6 @@
 # Deloitte-data-analytics-job-simulation
 Data Analytics project completed as part of the Deloitte Data Analytics Job Simulation on Forage. Includes workforce compensation analysis, equality score classification, downtime trend analysis, interactive Tableau dashboards, and business insights generated using Excel and Tableau.
-
+### TASK 1
 ## Description
 📊 Daikibo Telemetry Data Analysis Dashboard
 Project Overview
@@ -99,8 +99,7 @@ Downtime Analysis
 Root Cause Investigation
 Data-Driven Decision Making
 📸 Dashboard Preview
-
-(Insert Dashboard Screenshot Here)
+<img width="1652" height="841" alt="Screenshot 2026-06-08 200814" src="https://github.com/user-attachments/assets/9956e1f7-22a5-4123-84b6-38570df2e12d" />
 
 📚 Learning Outcomes
 
@@ -113,6 +112,12 @@ Analyzing operational performance metrics
 Creating stakeholder-focused visualizations
 Author
 
-Shreya Bandhe
-MBA (Business Analytics & Operations) | Aspiring Business Analyst
-Skills: Tableau • Power BI • Excel • SQL • Python • Data Analytics
+### TASK 2
+
+**Employee Compensation Equality Analysis (Excel)**
+
+Analyzed employee compensation data using Microsoft Excel to assess workplace pay equality across factories and job roles. Created an automated classification system using Excel formulas to categorize Equality Scores into **Fair**, **Unfair**, and **Highly Discriminative** groups. This project demonstrates skills in **data analysis, Excel automation, logical functions, workforce analytics, and business decision-making**.
+
+**Skills:** Excel • Data Analysis • Workforce Analytics • HR Analytics • Data Classification • Problem Solving • Business Analytics • Data Interpretation
+
+
